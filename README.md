@@ -1,0 +1,2 @@
+# gopal
+learning skills
